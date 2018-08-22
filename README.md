@@ -5,7 +5,7 @@ Banner image slider
 <pre><code>
 //image loading framework
 implementation 'com.github.bumptech.glide:glide:4.8.0'
-<pre><code>
+</code></pre>
 
 # Model Class for Slider
 model classes requiring in this project
